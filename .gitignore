@@ -1,3 +1,16 @@
+# Eclipse Setting Folder #
+.settings/  
+
+# Eclipse commpile Folder #
+.target/  
+
+# project #
+*.project 
+
+# classpath#
+*.classpath
+
+# class #
 *.class
 
 # Package Files #
